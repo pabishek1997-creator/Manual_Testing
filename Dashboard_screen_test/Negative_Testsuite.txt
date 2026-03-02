@@ -1,0 +1,4 @@
+Test case: Blank space front and back of a word in search option
+Steps: Click search engine-> Give space or blank fields and type Leave/ Dashboard
+Expected result: It's have to give a result
+Actual result: Nothing will be filtered -> Bug 

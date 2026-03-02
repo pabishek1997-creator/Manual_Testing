@@ -1,0 +1,11 @@
+Test case: Dashboard loads
+Steps: After click login 
+Expected result: All widgets and section displayed
+
+Test case: Menu navigation
+Steps: Click Admin/Time/Leave etc
+Expected result: correct page loads
+
+Test case: Search option
+Steps: Click search engine-> Type Leave/ Dashboard
+Expected result: Correct search will be filtered

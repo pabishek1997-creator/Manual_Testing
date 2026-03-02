@@ -1,0 +1,11 @@
+Test case: Invalid login 
+Steps: Navigate to login -> Enter Invalid username and password
+Expected result: Invalid credentials
+
+Test case: Blank fields
+Steps: Leave Empty/Blank field -> click login 
+Expected result: Validation error
+
+Test case: Case sensitivity 
+Steps: Enter correct letters in wrong case
+Expected result: Login should fail.

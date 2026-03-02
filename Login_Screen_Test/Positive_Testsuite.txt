@@ -1,0 +1,3 @@
+Test case: Valid login 
+Steps: Navigate to login -> Enter valid username and password
+Expected result: Successfully logged in

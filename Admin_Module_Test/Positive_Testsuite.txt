@@ -1,0 +1,15 @@
+Test Case: Add new user
+Steps: Admin -> User Management ->Add
+Expected Result: User added
+
+Test case: Edit user
+Steps: Select- existing user> update details
+Expected result: Changes are saved
+
+Test case: Delete user
+Steps: Delete a user
+Expected result: User removed from data.
+
+Test case: Validate required fields 
+Steps: Leave compulsory fields empty
+Expected result: Errors shown

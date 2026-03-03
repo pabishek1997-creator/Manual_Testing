@@ -12,4 +12,4 @@ Expected result: User removed from data.
 
 Test case: Validate required fields 
 Steps: Leave compulsory fields empty
-Expected result: Errors shown
+Expected result: Errors shown - working fine

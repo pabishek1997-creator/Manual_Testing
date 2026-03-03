@@ -1,0 +1,3 @@
+Test case: Filter reports
+Step: Filtered by wrong employee Id/Username
+Expected result: Errors shown

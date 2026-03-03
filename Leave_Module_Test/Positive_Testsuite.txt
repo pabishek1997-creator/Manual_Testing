@@ -1,0 +1,15 @@
+Test case: Apply for leave    
+Steps: Select date/reason       
+Expected result: Leave sent for approval 
+
+Test case: Invalid dates       
+Steps: End date before start    
+Expected result: Validation error
+        
+Test case: View leave balance  
+Steps: Navigate to leave summary
+Expected result: Display correct totals
+
+Test case: Cancel applied leave 
+Steps: Cancel pending leave      
+Expected result: Status updates

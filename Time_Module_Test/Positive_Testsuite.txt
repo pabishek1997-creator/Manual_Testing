@@ -1,0 +1,15 @@
+Test case: Punch In/Out
+Steps: Start/End time 
+Expected result: Time tracked
+
+Test case: Time sheet entry
+Steps: Add daily hours
+Expected result: Record saved
+
+Test case: Timesheet Approvals
+Step: Manager Approval
+Expected result: Status approved
+
+Test case: Filter reports
+Step: Filtered by employee Id/Username
+Expected result: Correct output
